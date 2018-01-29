@@ -1,0 +1,6 @@
+c:\users\kasper kofoed\Source\Repos\TestProjektGithubAssignment\TestProjektGithubAssignment\bin\Debug\TestProjektGithubAssignment.exe.config
+c:\users\kasper kofoed\Source\Repos\TestProjektGithubAssignment\TestProjektGithubAssignment\bin\Debug\TestProjektGithubAssignment.exe
+c:\users\kasper kofoed\Source\Repos\TestProjektGithubAssignment\TestProjektGithubAssignment\bin\Debug\TestProjektGithubAssignment.pdb
+c:\users\kasper kofoed\Source\Repos\TestProjektGithubAssignment\TestProjektGithubAssignment\obj\Debug\TestProjektGithubAssignment.csproj.CoreCompileInputs.cache
+c:\users\kasper kofoed\Source\Repos\TestProjektGithubAssignment\TestProjektGithubAssignment\obj\Debug\TestProjektGithubAssignment.exe
+c:\users\kasper kofoed\Source\Repos\TestProjektGithubAssignment\TestProjektGithubAssignment\obj\Debug\TestProjektGithubAssignment.pdb
